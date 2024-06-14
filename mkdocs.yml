@@ -1,0 +1,4 @@
+site_name: Turnroot Editor Documentation
+nav:
+  - Home: index.md
+theme: readthedocs
