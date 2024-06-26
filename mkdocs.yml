@@ -2,9 +2,9 @@ site_name: Turnroot Editor Documentation
 nav:
   - Home: 'index.md'
   - Getting Started:
-    - Quick Start (Cloud): 'quick-start.md'
-    - Local Installation: 'local-installation.md'
-    - First Hour with Turnroot: 'first-hour.md'
+    - Quick Start (Cloud): 'getting-started/quick-start.md'
+    - Local Installation: 'getting-started/local-installation.md'
+    - First Hour with Turnroot: 'getting-started/your-first-hour-in-the-turnroot-editor.md'
   - Navigating the Editor:
     - Editor Basics: 'editor-basics.md'
     - The Sidebar: 'sidebar.md'
