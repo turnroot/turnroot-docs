@@ -59,8 +59,8 @@ Again, you don't need to change any settings during the installation process.
 ## Setup
 ### Installing the Turnroot Editor
 As mentioned, you'll need two Node.js applications running. One controls the editor itself, and one handles data. You can find the two applications here:
-- https://github.com/turnroot/turnroot-editor-server
-- https://github.com/turnroot/turnroot-schemas
+- [https://github.com/turnroot/turnroot-editor-server](https://github.com/turnroot/turnroot-editor-server)
+- [https://github.com/turnroot/turnroot-schemas](https://github.com/turnroot/turnroot-schemas)
 
 You have two major options here; you can download those from the Releases page on GitHub (or the sidebar on the main page), or you can clone the repositories using Git. I recommend the latter, as it makes updating the applications easier. Please note that neither option will give you automatic updates; you'll need to check the repositories for updates yourself.
 
