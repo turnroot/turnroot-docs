@@ -19,7 +19,7 @@ The gathering place for developers, gamers, gamemakers, artists, asset creators,
 
 If you need help, you can find it on the [Turnroot Community](https://community.turnroot.com). These docs are also a good place to start. We highly recommend spending some time reading through them before you start making your game.
 
-If you want to contribute to the development of Turnroot, please do! Please see (the contributing guide)[https://community.turnroot.com/t/contributor-guidelines/13] for more information.
+If you want to contribute to the development of Turnroot, please do! Please see [the contributing guide](https://community.turnroot.com/t/contributor-guidelines/13) for more information.
 
 ## Licenses
 ### Turnroot Editor
