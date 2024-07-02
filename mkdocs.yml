@@ -8,9 +8,6 @@ nav:
   - Navigating:
     - Editor Basics: 'navigating/editor-basics.md'
     - The Sidebar: 'navigating/sidebar.md'
-    - Main Toolbar: 'navigating/main-toolbar.md'
-    - Status Bar: 'navigating/status-bar.md'
-    - Editor Settings: 'navigating/editor-settings.md'
     - Tabs: 'navigating/tabs.md'
     - Secondary Sidebars: 'navigating/secondary-sidebars.md'
     - Keyboard Shortcuts: 'navigating/keyboard-shortcuts.md'
@@ -26,10 +23,9 @@ nav:
     - Finding Assets: 'best-practices/finding-assets.md'
     - Playtesting: 'best-practices/playtesting.md'
   - Collaboration:
+    - Collaboration: 'collaboration/index.md'
     - Working with a Team: 'collaboration/working-with-a-team.md'
     - Sharing a Project: 'collaboration/sharing-a-project.md'
-    - Shared Version Control: 'collaboration/version-control.md'
-    - Roles: 'collaboration/roles.md'
   - Test and Build:
     - Check for Issues: 'test-and-build/check-for-issues.md'
     - Test Something: 'test-and-build/test-something.md'
@@ -44,7 +40,6 @@ nav:
     - Linking Files: 'file-management/linking-files.md'
   - Technical Details:
     - Changelog: 'technical-details/changelog.md'
-    - Roadmap: 'technical-details/roadmap.md'
     - Structure: 'technical-details/structure.md'
     - Privacy: 'technical-details/privacy.md'
   - Community:
@@ -56,3 +51,7 @@ nav:
     - Contributing: 'community/contributing.md'
 
 theme: readthedocs
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

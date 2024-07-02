@@ -32,7 +32,7 @@ I thought long and hard before writing any code about whether I should make a mo
 There are two databases used by the Turnroot Editor: MariaDB and MongoDB. MariaDB is used for user data, and MongoDB is used for game data.
 
 ### Why?
-SQL is much better for rapid-fire, small queries, and MongoDB is much better for large, complex queries. The game data very much needs a NoSQL structure- it's a complex, nested, and frequently-changing data structure, and MongoDB just __works__ for that in a way that SQL couldn't. On the flip side, MongoDB is slow and overly powerful for user data, which is why MariaDB is used for that.
+SQL is much better for rapid-fire, small queries, and MongoDB is much better for large, complex queries. The game data very much needs a NoSQL structure- it's a complex, nested, and frequently-changing data structure, and MongoDB just _works_ for that in a way that SQL couldn't. On the flip side, MongoDB is slow and overly powerful for user data, which is why MariaDB is used for that.
 
 Essentially, MongoDB is a semi-truck moving huge amounts of cargo (data) slowly, and MariaDB is a Lamborghini moving small amounts of cargo (data) quickly. 
 
