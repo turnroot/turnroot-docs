@@ -1,7 +1,8 @@
 # Changelog
 
 ## Pre-release
-### 0.0.7 - get/update game details, many bugfixes, item editor bones
+### 0.0.7 - July 22th, 2024
+- Get/update game details, many bugfixes, item editor bones
 ### 0.0.6 - July 15th, 2024
 - Tooltip and popup framework
 ### 0.0.5 - July 8th, 2024
